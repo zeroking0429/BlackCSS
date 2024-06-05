@@ -1,45 +1,51 @@
 body {
-	background-color: black;
-	color: white;
+  background-color: black;
+  color: white;
 }
 
 .div {
-	padding: 20;
+  padding: 20px;
 }
 
 .button {
-	color: white;
-	background-color: black;
-	border: 2px solid white;
-	border-radius: 50px;
-	font-size: 3em;
+  color: white;
+  background-color: black;
+  border: 2px solid white;
+  border-radius: 50px;
+  font-size: 3em;
+  &:hover {
+    cursor: pointer;
+  }
 }
 
 .a {
-	color: gray;
-	text-decoration: none;
+  color: gray;
+  text-decoration: none;
+  &:hover {
+    cursor: pointer;
+  }
 }
 
 .h1 {
-	color: white;
+  color: white;
 }
 
 .h2 {
-	color: white;
+  color: white;
 }
 
 .h3 {
-	color: white;
+  color: white;
 }
 
 .h4 {
-	color: white;
+  color: white;
 }
 
 .h5 {
-	color: white;
+  color: white;
 }
 
 .h6 {
-	color: white;
+  color: white;
 }
