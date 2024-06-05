@@ -1,15 +1,15 @@
 # BlackCSS
 <hr></hr>
-## BlackCSS is help to make darkness style.
-### You can edit it. (v0.0.1)
+# # BlackCSS is help to make darkness style.
+# # # You can edit it. (v0.0.1)
 * div
 * a
 * button
 * main
 * h1 ~ h6
 (Please waut for update)
-## But! Please don't change Background Color if you want a Darkness page.
-## Notice
+# # But! Please don't change Background Color if you want a Darkness page.
+# # Notice
 * default
   * color is white
 * div
