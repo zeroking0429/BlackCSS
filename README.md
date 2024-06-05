@@ -6,7 +6,7 @@
 * button
 * main
 * h1 ~ h6
-(Please waut for update)
+(Please wait for update)
 ## But! Please don't change Background Color if you want a Darkness page.
 ## Notice
 * default
