@@ -1,6 +1,6 @@
 # BlackCSS
 ## BlackCSS is help to make darkness style.
-### You can edit it. (v0.0.1)
+### You can edit it. (v0.0.2)
 * div
 * a
 * button
